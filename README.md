@@ -1,4 +1,4 @@
-# Issues Tracking for objection.lol
+# Issues Tracker for objection.lol
 
 This repository is used to track issues for the upcoming new objection.lol website.
 
