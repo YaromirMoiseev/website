@@ -1,5 +1,5 @@
-# Issues Tracker for objection.lol
+# Issues Tracker and Discussions for objection.lol
 
-This repository is used to track issues for the website objection.lol.
+[Go to issues page](https://github.com/objection-lol/website/issues)
 
-[Go to issues page](https://github.com/objection-lol/issues/issues)
+[Go to discussions page](https://github.com/objection-lol/website/discussions)
