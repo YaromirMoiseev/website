@@ -1,5 +1,3 @@
-# Issues Tracker and Discussions for objection.lol
+# MOVED TO DISCORD
 
-[Go to issues page](https://github.com/objection-lol/website/issues)
-
-[Go to discussions page](https://github.com/objection-lol/website/discussions)
+<https://discord.gg/9pXfzGB8vt>
